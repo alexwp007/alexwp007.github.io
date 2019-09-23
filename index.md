@@ -1,8 +1,8 @@
-## Welcome to alexwp007's GitHub Page
+## Alexwp007's Informative Page
 
-You can use the [editor on GitHub](https://github.com/alexwp007/alexwp007.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to my page where I post things. As I initiate my projects, they will be posted here and updated frequently for you to see and follow along if that is what you want to do.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ### Markdown
 
