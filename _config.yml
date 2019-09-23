@@ -1,3 +1,10 @@
 theme: jekyll-theme-minimal
 title: Welcome to alexwp007's homepage!
 description: Follow this page to see my upcoming projects!
+
+contact-links:
+email: "someone@example.com"
+
+
+author:
+  name: Human
