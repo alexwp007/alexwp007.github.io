@@ -1,37 +1,27 @@
 ## Alexwp007's Informative Page
 
-Welcome to my page where I post things. As I initiate my projects, they will be posted here and updated frequently for you to see and follow along if that is what you want to do.
+Welcome to my temporary page where I post things. As I initiate my projects, they will be posted here and updated frequently for you to see and follow along if that is what you want to do.
 
-
-
-### Markdown
 
 Initially when I started this module assignment, I ended up having my account flagged and my progress locked for anybody to see. Support took ages, so I had to redo this assignment using another email. 
 
+
+### Things that frustrate me
 ```markdown
-Syntax highlighted code block
+**1.** Roommates girlfriend
+**2.** Assignments with random due dates
+**3.** Those weeks where all those test align back to back (such as this week)
+**4.** As far as I am in my career, I still have to do simple calculations such as:
+        - 0.05*1.5 (most recent calculation according to my calculator)
+        - 27/9
+        - 159*3*exp(8)*0
+        
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](~/PANO_20180507_172604.jpg)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [Roasted Garlic Bread Recipes](https://www.allrecipes.com/recipe/75133/roasted-garlic-bread/?internalSource=streams&referringId=14966&referringContentType=Recipe%20Hub&clickId=st_trending_b).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alexwp007/alexwp007.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Contact Me!
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Send me threats at my personal email: sampleemail@email.com
