@@ -6,7 +6,7 @@ Welcome to my page where I post things. As I initiate my projects, they will be 
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Initially when I started this module assignment, I ended up having my account flagged and my progress locked for anybody to see. Support took ages, so I had to redo this assignment using another email. 
 
 ```markdown
 Syntax highlighted code block
